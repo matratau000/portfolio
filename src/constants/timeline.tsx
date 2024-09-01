@@ -41,7 +41,7 @@ export const timeline = [
   {
     company: "Innovative Health and Fitness",
     title: "Personal Trainer",
-    date: "Aug 2021 - Dec 2021",
+    date: "August 2021 - Dec 2021",
     description: "Developed personalized fitness programs to meet individual client needs.",
     responsibilities: [
       "Created custom-tailored fitness programs for a diverse client base.",
